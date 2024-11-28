@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.position{
+    position: absolute;
+    bottom:8px ;
+    left: 8px;
+}
